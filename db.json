@@ -1,0 +1,71 @@
+{
+  "logs": [
+    {
+      "message": "Area 32 wifi is not working properly",
+      "attention": true,
+      "tech": "Trisha\n        Pandey",
+      "date": "2021-08-05T07:23:50.600Z",
+      "id": 1
+    },
+    {
+      "message": "Need to upgrade virus protection as daily routine",
+      "attention": false,
+      "tech": "Palvi\n        Mukhrjee",
+      "date": "2021-08-05T07:24:34.400Z",
+      "id": 2
+    },
+    {
+      "message": "All infected systems are recovering after the patch so no issue there after the patch.",
+      "attention": false,
+      "tech": "Aman\n        ",
+      "date": "2021-08-05T07:25:53.200Z",
+      "id": 3
+    },
+    {
+      "message": "adding new log for testing ",
+      "attention": false,
+      "tech": "Tanuja\n        Trivedi",
+      "date": "2021-08-05T16:34:15.400Z",
+      "id": 4
+    },
+    {
+      "message": "test 2",
+      "attention": false,
+      "tech": "Tanuja\n        Trivedi",
+      "date": "2021-08-05T16:51:14.100Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Aman",
+      "lastName": ""
+    },
+    {
+      "id": 2,
+      "firstName": "Ankita",
+      "lastName": "Shinganya"
+    },
+    {
+      "firstName": "Trisha",
+      "lastName": "Pandey",
+      "id": 5
+    },
+    {
+      "firstName": "Palvi",
+      "lastName": "Mukhrjee",
+      "id": 8
+    },
+    {
+      "firstName": "Tanuja",
+      "lastName": "Trivedi",
+      "id": 9
+    },
+    {
+      "firstName": "Tanuja",
+      "lastName": "Trivedi",
+      "id": 10
+    }
+  ]
+}
